@@ -4,7 +4,7 @@ Projeto Alura Store One Education
 # 📈 Propósito da Análise
 Este projeto tem como objetivo analisar os dados de vendas da Alura Store, com foco em entender o comportamento dos clientes, o desempenho dos produtos e as tendências de mercado.
 
-Através da análise exploratória, buscamos gerar insights estratégicos que podem apoiar decisões como:
+Através de análise exploratória, busquei gerar insights estratégicos que podem apoiar decisões como:
 
 * Identificação dos produtos mais vendidos.
 
